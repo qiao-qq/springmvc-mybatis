@@ -8,3 +8,7 @@ eclipse上运行
 显示页面：[http://localhost:8080/springmvc_mybatis/items/queryItems]
 修改页面：[http://localhost:8080/springmvc_mybatis/items/editItems?id=1]
 
+
+tomcat服务器版本9.0
+数据库mysql版本5.5
+
